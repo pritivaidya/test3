@@ -1,0 +1,3 @@
+var inc = new GlideRecord('incident');
+inc.addActiveQuery();
+inc.query();
